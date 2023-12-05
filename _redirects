@@ -1,1 +1,1 @@
-/subdomain/*  /subdomain/:splat  200
+/try/*  /try/:splat  200
